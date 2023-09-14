@@ -10,12 +10,12 @@ SUDO_USERS = list(map(int, ("").split()))
 OWNER_ID = int(1234567890)
 MONGO_URL = "MONGO_URL"
 BOT_TOKEN = "BOT_TOKEN"
-ALIVE_PIC = 'https://telegra.ph/file/3c52a01057865f7511168.jpg'
-ALIVE_TEXT = None
-PM_LOGGER = None
-LOG_GROUP = None
+ALIVE_PIC = 'https://telegra.ph/file/feef02ac6be47c78b3f64.jpg'
+ALIVE_TEXT = "ALIVE_TEXT"
+PM_LOGGER = "PM_LOGGER"
+LOG_GROUP = "LOG_GROUP"
 GIT_TOKEN = None #personal access token
-REPO_URL = "https://github.com/ITZ-ZAID/ZAID-USERBOT"
+REPO_URL = "https://github.com/Siam19395/ZAID-USERBOT"
 BRANCH = "master" #don't change
  
 STRING_SESSION1 = ""
