@@ -1,8 +1,8 @@
 {
-    "name": "Zaid Userbot",
-    "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
+    "name": "Siam Userbot",
+    "description": "An Telegram Userbot.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/ITZ-ZAID/Zaid-Userbot",
+    "repository": "https://github.com/Siam19395/ZAID-USERBOT",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
